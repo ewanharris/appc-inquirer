@@ -41,6 +41,6 @@
   },
   "dependencies": {
     "async": "^2.1.2",
-    "inquirer": "^6.0.0"
+    "inquirer": "6.2.0"
   }
 }
